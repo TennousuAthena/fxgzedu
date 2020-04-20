@@ -85,7 +85,7 @@
 							<h1 class="white-text">阜新市高级中学</h1>
 							<p class="lead white-text">
 								阜新市高级中学系辽宁省首批重点高中，其前身为解放战争时期的辽北八中，1952年更名为阜新市高级中学，2003年被评为辽宁省示范性高中。</p>
-							<a class="main-button icon-button" href="#">查看介绍</a>
+							<a class="main-button icon-button" href="#about">查看介绍</a>
 						</div>
 					</div>
 				</div>
@@ -105,7 +105,8 @@
 
 					<div class="col-md-6">
 						<div class="section-header">
-							<h2>关于本校</h2>						
+                            <h2>关于本校</h2>
+                            <a neme="about"></a>					
 						</div>
 
 						<!-- feature -->
