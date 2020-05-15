@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<!-- 我太难了，WPS的秀堂代码窒息，以及，刘某傻逼 -->
+    <meta charset="UTF-8"/>
+    <title>正在为您加载……</title>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta name="keywords" content="21班！ShowTime!!!"/>
+    <meta id="metaFileId" name="description" content="0519b21e"/>
+
+    <meta id="i18nFilePathId" name="i18nFilePathId" content="//h5.z211.top/static/p/20200226161312"/>
+    
+    <meta id="fetchWechatInfoUrl" name="fetchWechatInfoUrl" content="//api.s.wps.cn/fetchWechatInfoUrl"/>
+
+    <META content="ShowTime" property="og:site_name"/>
+    <META content="object" property="og:type"/>
+    <META content="" property="og:url"/>
+
+    <meta itemprop="name" content="市高21班学生风采" />
+    <meta itemprop="image" content="//a.h5.wps.cn/userImage/0.7090170055162162_3333.png%40base%40tag%3DimgScale%26h%3D464%26w%3D464%26c%3D1%26f%3D1%26cox%3D178%26coy%3D157" />
+    <meta name="description" itemprop="description" content="{de✾ion}" />
+
+    <style>
+       body {
+            margin: 0;
+            padding: 0;
+            display: block !important;
+            min-height: 740px;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            background-color: #2b3236;
+            width: 100%;
+            height: 100%;
+            font-family: "Microsoft YaHei", "SimSun", sans-serif !important;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 100;
+            background-color: #fff;
+        }
+    </style>
+    <script src="//res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+    <script src="//h5.z211.top/static/lib/jquery-ui-1.11.4/external/jquery/jquery.js"></script>
+    
+    
+    <script>
+        window.isPreview = false;
+        window.offline = false;
+        window.isDebug = false;
+        window.formHost = "//api.s.wps.cn";
+        //window.reportHost = window.location.origin;
+        window.baseUrl = "xiutangh5.cn/p";
+		//这里是关键
+        window.jsonUrl = "data.json";
+        window.resBase = "//h5.z211.top/static";
+        window.linkCheck = window.location.origin+"/service";
+        window.publishDocType = "user";
+        window.scriptChart = "//h5.z211.top/static/lib/chart.min.js";
+        window.scriptEffect = "//h5.z211.top/static/lib/proton-1.0.0.js";
+        window.scriptPhotoset = "//h5.z211.top/static/lib/flux.min.js";
+        window.wechatAppId = "";
+        window.shareInfo={};
+        window.shareInfo.desc = "{de✾ion}";
+        window.shareInfo.cover = "//a.h5.wps.cn/userImage/0.7090170055162162_3333.png%40base%40tag%3DimgScale%26h%3D464%26w%3D464%26c%3D1%26f%3D1%26cox%3D178%26coy%3D157";
+        window.shareInfo.title = "市高21班学生风采";
+        window.location_search = window.location.search;
+        var strF = location.pathname.split('/')[2];
+		
+        strF = strF && strF.split('.')[0];
+        if (strF === "b9c2d03a") {
+            window.shareInfo.desc = "市高21班学生风采";
+            window.wechatAppId = "wx94665958bcce41ff";
+        }
+        //处理海报生成图片居中问题________________start__________________
+        (function() {
+            var count = 0;
+            function reSizePoster() {
+                count++;
+                if ($("[id=HBcanvas2img]").length) {
+                    setTimeout(function(){
+                        $('#root').css({
+                            'overflow': 'visible'
+                        });
+                        for(var i = 0; i < $("[id=HBcanvas2img]").length; i++) {
+                            $($("[id=HBcanvas2img]")[i]).css({
+                                'position': 'fixed',
+                                'top': '50%',
+                                'left': '50%',
+                                'transform': 'translate(-50%, -50%)',
+                                'margin-left': '0'
+                            });
+                        }
+                    },500)
+                }else{
+                    if (count >= 10) {
+                        return;
+                    }
+                    setTimeout(function(){
+                        reSizePoster();
+                    },200);
+                }
+            }
+            reSizePoster();
+        }());
+        //处理海报生成图片居中问题________________end__________________
+        try{
+            window.publishInfo =  {"docId":"0519b21e","publishId":"0519b21e","latestId":"12d4","cover":"//a.h5.wps.cn/userImage/0.7090170055162162_3333.png%40base%40tag%3DimgScale%26h%3D464%26w%3D464%26c%3D1%26f%3D1%26cox%3D178%26coy%3D157","title":"市高21班学生风采","desc":"{de✾ion}","bgMusic":"//f.h5.wps.cn/userMusic/455047724/1589514056511_27a16d4c.mp3","activeRange":false,"activeRangeEnd":0,"hasChart":false,"hasEffect":false,"hasWechat":false,"hasPhotoset":false,"hasForm":false,"hasCounter":false,"logoUrl":"","baseUrl":"xiutangh5.cn/p","version":"2","staticBase":"//h5.z211.top/static/p/20200226161312","publishDate":1589552586981,"newComming":true,"domain":"xiutangh5.cn"};
+            window._i18Map = JSON.parse('{"itemRequired":"为必填项","wrongPhoneFormat":"电话格式不对，请输入11位电话号码，例如：13812347890","wrongMailFormat":"邮件格式不对","allItemEmpty":"请填写信息","submit_ok":"提交成功","submit_failed":"提交失败，请重试","alreadySubmitted":"已经提交过了，亲","form_submit_end":"当前表单已截止提交","form_open_in_wechat":"请在微信中打开使用","form_submit_within_interval":"请不要重复提交","ok":"好的","second":"秒","send_verify_code_failed":"不能获取验证码","verifyCodeInvalid":"验证码无效","copy":"复制链接分享","scanCode":"微信扫一扫分享","paySuccTip":"&nbsp;&nbsp;&nbsp;&nbsp;温馨提示：已画册已经放在“我的画册”里。建议您克隆一份后再修改，以防误删、误改后无法恢复。"}');
+        }catch(e){
+            console.error(e);
+        }
+        window.fid="0519b21e";
+        window._i18nProp = function(key){
+            return (window._i18Map||{})[key];
+        };
+        var pureAjax = function (url,callback){
+            // if(window.location.protocol=='file:') {
+            if(window.offline) {
+                callback&&callback(null, window.json);
+            } else {
+                if(window.fetch){
+                    fetch(url).then(function(response){
+                        if(response.status==200){return response.text();
+                        }else {
+                            var error=new Error(response.statusText);
+                            error.response=response;throw error
+                        }
+                    }).then(function(ret){
+                        callback(null,ret);
+                    }).catch(function(error){
+                        console.error(error);
+                        callback(error)
+                    })
+                }else{
+                    try{
+                        var xhr=new XMLHttpRequest();
+                        xhr.onreadystatechange=function(){
+                            if(xhr.readyState==4){
+                                if(xhr.status==200){
+                                    callback(null,xhr.responseText);
+                                }else{
+                                    console.error("ajax"+url+"error!");
+                                    callback(response.statusText)
+                                }
+                            }
+                        };
+                        xhr.open("GET",url,true);xhr.send(null);
+                    }catch(e) {
+                        callback(e);
+                    }
+                }      
+            }
+        };
+        if(!window.dataCalling){
+            window.dataCalling = true;
+            pureAjax(window.jsonUrl,function(err,json){
+                err&&console.error(err);
+                if(json){
+                    window.dataJson = JSON.parse(json);
+                    var jsonHtml = window.dataJson;
+                    jsonHtml.html = filterString(jsonHtml.html);
+                    window.htmlLength = $(jsonHtml.html).length;
+                    pageNum();
+                    if(window.dataJSONCallback){
+                        window.dataJSONCallback(window.dataJson);
+                        delete window.dataJson;
+                        delete window.dataCalling;
+                        return;
+                    }
+                }
+            })
+        }
+        function pageNum() {
+            window.nowPage = 1;
+            $('#pageNum')
+            .html('<div>'
+                    + '<span style="font-size: 20px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">' + window.nowPage + '</span>'
+                    + '<span style="font-size: 20px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">/</span>'
+                    + '<span style="font-size: 15px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">' + htmlLength + '</span>'
+                + '</div>');
+            $("#mainPreview").on("touchstart", function(e) {
+                startX = e.originalEvent.changedTouches[0].pageX,
+                    startY = e.originalEvent.changedTouches[0].pageY;
+            });
+            $("#mainPreview").on("touchend", function(e) {
+                moveEndX = e.originalEvent.changedTouches[0].pageX,
+                    moveEndY = e.originalEvent.changedTouches[0].pageY,
+                    X = moveEndX - startX,
+                    Y = moveEndY - startY;
+                //下滑
+                if ( Y > 0) {
+                    if (window.htmlLength) {
+                        window.nowPage--;
+                        if (window.nowPage === 0) {
+                            window.nowPage = window.htmlLength;
+                        }
+                        $('#pageNum')
+                            .html('<div>'
+                                + '<span style="font-size: 20px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">' + window.nowPage + '</span>'
+                                + '<span style="font-size: 20px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">/</span>'
+                                + '<span style="font-size: 15px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">' + window.htmlLength + '</span>'
+                                + '</div>');
+                    }
+                }
+                //上滑
+                else if ( Y < 0 ) {
+                    if (window.htmlLength) {
+                        window.nowPage++;
+                        if (window.nowPage === window.htmlLength + 1) {
+                            window.nowPage = 1;
+                        }
+                        $('#pageNum')
+                            .html('<div>'
+                                + '<span style="font-size: 20px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">' + window.nowPage + '</span>'
+                                + '<span style="font-size: 20px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">/</span>'
+                                + '<span style="font-size: 15px; color: #fff; text-shadow: 1px 1px rgba(0, 0, 0, 0.4);">' + window.htmlLength + '</span>'
+                                + '</div>');
+                    }
+                }
+            });
+        }
+        function filterString(str) {
+            var str = str.replace(/eval/gi,'\u273E').replace(/script/gi,"\u273E").replace(/write/gi,"write\u2063")
+                .replace(/create/gi,"create\u2063").replace(/insert/gi,"insert\u2063").replace(/append/gi,"append\u2063")
+                .replace(/remove/gi,"remove\u2063").replace(/replace/gi,"replace\u2063").replace(/innerHTML/gi,"\u273E")
+                .replace(/frame/gi,"frame\u2063")
+                .replace(/fromCharCode/gi,"\u273E").replace(/base64/gi,"base64\u2063")
+                .replace(/unescape/gi,"\u273E").replace(/decodeURI/gi,"\u273E")
+                .replace(/\$/gi,"\u273E").replace(/jQuery/gi,"\u273E")
+                .replace(/embed/gi,"embed\u2063").replace(/object/gi,"object\u2063").replace(/param/gi,"param\u2063")
+                .replace(/oncick/gi,"\u273E").replace(/ontouch/gi,"\u273E").replace(/onmove/gi,"\u273E")
+                .replace(/onabort/gi,"\u273E").replace(/onblur/gi,"\u273E").replace(/onchange/gi,"\u273E")
+                .replace(/onclick/gi,"\u273E").replace(/ondblclick/gi,"\u273E").replace(/onerror/gi,"\u273E")
+                .replace(/onfocus/gi,"\u273E").replace(/onkeydown/gi,"\u273E").replace(/onkeypress/gi,"\u273E")
+                .replace(/onkeyup/gi,"\u273E").replace(/onload/gi,"\u273E").replace(/onmouse/gi,"\u273E")
+                .replace(/onpause/gi,"\u273E").replace(/onreset/gi,"\u273E").replace(/onresize/gi,"\u273E")
+                .replace(/onselect/gi,"\u273E").replace(/onsubmit/gi,"\u273E").replace(/onunload/gi,"\u273E")
+                .replace(/offline/gi,"\u273E").replace(/onbeforeonload/gi,"\u273E").replace(/onchange/gi,"\u273E")
+                .replace(/ondrag/gi,"\u273E").replace(/ondrop/gi,"\u273E").replace(/onemptied/gi,"\u273E")
+                .replace(/onended/gi,"\u273E").replace(/onformchange/gi,"\u273E").replace(/onforminput/gi,"\u273E")
+                .replace(/onhaschange/gi,"\u273E").replace(/oninput/gi,"\u273E").replace(/onoffline/gi,"\u273E")
+                .replace(/onscroll/gi,"\u273E").replace(/onselect/gi,"\u273E").replace(/touch/gi,"\u273E");
+            if((/[a-z]+\+[a-z]+/gi).test(str)){
+                str = str.replace(/\+/gi,"+\u2063");
+            }
+            str = str.replace(/\u2063\u2063/gi,"\u2063");
+            return str;
+        }
+        window.delayExec = function(call,time){
+            setTimeout(call,time||10000);
+        };
+    </script>
+<!-- Google 统计代码 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100755509-18"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-100755509-18")</script>
+</head>
+<body style="min-height:0px; width:auto;height:auto">
+
+
+<div style="display: none;"><img id="shareImage" src=""/></div>
+<div id="root" style="position: relative;left:0px;top:0px;width:414px;height:628px;overflow:hidden;background-color: #2b3236;">
+    <section id="mainPreview" class="transPoint" style="background-color:transparent;position:absolute;background-color: #2b3236;"></section>
+    <!--<span id="shareBnt" style="position: absolute;display: none; z-index: 2;" class="shareBnt"></span>-->
+
+    <div id="fullScreen" class="fullScreen" style="position: absolute;display: none">
+    </div>
+    <div id="musicContainer" style="position: absolute;width:72px;height: 72px">
+        <div id="musicPlayer" data-bgmusic="" style="position: absolute;display: none" class="musicStart">
+        </div>
+    </div>
+    <div id="shangfeiDio" style="display: none; position: absolute; left: 0; top: 0; bottom: 0; right: 0; width: 100%; height: 100%; background-image: url('https://ks3-cn-beijing.ksyun.com/xiutang-bj/uImage/192128567/zhongguoshangfeiwellcome.jpg'); background-position: center; background-size: contain; background-repeat: no-repeat; background-color: #000;">
+    </div>
+    <div id="shangfeiDio2" style="display: none; position: absolute; left: 0; top: 0; bottom: 0; right: 0; width: 100%; height: 100%; background-image: url('https://ks3-cn-beijing.ksyun.com/xiutang-bj/uImage/192128567/zhongguoshangfeiwellcome2.jpg'); background-position: center; background-size: contain; background-repeat: no-repeat; background-color: #000;">
+
+    </div>
+</div>
+<div class="preload-container" id="preload-container"
+     style="position: absolute;left: 0;top: 0;">
+    <div id="preload"
+         style="position: absolute;left: 50%;top: 50%;margin-left:-40px;margin-top:-40px;background-color:transparent;width:80px;height: 80px;background-size: contain;background-repeat:no-repeat;background-image: url('loading.gif')"></div>
+</div>
+<div id="previousSlider" style="position:absolute;width: 36px;left:0px;top:50px;display: none;">
+    <div id="previousArrow" style="position:absolute;width:36px;height:36px;top:50%;" class="previousArrow"></div>
+</div>
+<div id="nextSlider" style="position:absolute;width: 36px;left: 0px;top:50px;display: none;">
+    <div id="nextArrow" style="position:absolute;width:36px;height:36px;top:50%;" class="nextArrow"></div>
+</div>
+<div id="videoCover" style="display: none;background-color: rgba(0,0,0,.5);position: absolute">
+    <div id="videoContainer" style="width: 100%;height: 100%;position: absolute;left: 0px;top: 0px;"></div>
+    <a id="videoClose" style="position: absolute;right: 15px;top: 15px;width: 20px;height: 20px;"></a>
+</div>
+<div class="form_submit_dialog">
+    <div id="form_submit_dialog_body" style="text-align:center">dialog body</div>
+</div>
+<script>
+    try{
+        var clientW = document.documentElement.clientWidth;
+        var clientH = document.documentElement.clientHeight;
+        var node = document.getElementById("preload-container");
+        node.style.display="flex";
+        node.style.width=document.documentElement.clientWidth+"px";
+        node.style.height=document.documentElement.clientHeight+"px";
+    }catch(e){
+
+    }
+    var system ={
+        win : false,
+        mac : false,
+        xll : false
+    };
+    //检测平台
+    var p = navigator.platform;
+    system.win = p.indexOf("Win") == 0;
+    system.mac = p.indexOf("Mac") == 0;
+    system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+    if(!(system.win||system.mac||system.xll)){
+        var fidId = location.pathname;
+        fidId = fidId.split('/')[2];
+        fidId = fidId.split('.')[0];
+        var $Owi = $('.overWriteImg');
+        var url = '';
+        if (location.protocol === 'http:' && location.hostname === "192.168.41.62") {
+            url = "//localhost:8080/visitor/getTemplateSign";
+        } else {
+            url = "//s.wps.cn/visitor/getTemplateSign";
+        }
+        $.ajax({
+            url: url,
+            type: 'get',
+            data: {
+                "id": fidId
+            },
+            dataType: "jsonp",
+            success: function(data) {
+                if (data && data.result === 0) {
+                    $Owi.css({
+                        "display": "block"
+                    });
+                    var timmer = setTimeout(function() {
+                        $Owi.css({
+                            "display": "none"
+                        });
+                    }, 5000);
+                    $Owi.on('click', function() {
+                        $Owi.css({
+                            "display": "none"
+                        });
+                        clearTimeout(timmer);
+                    });
+                }
+            }
+        });
+    }
+</script>
+
+<script src="//h5.z211.top/static/lib/fingerprint2.min.js"></script>
+
+<script src="//h5.z211.top/static/lib/url.min.js"></script>
+<script>$.holdReady(true);
+$.holdReady(true);
+$.holdReady(true);
+$.holdReady(true);
+$.holdReady(true);
+if (window.offline) {
+    window.pcJS = [];
+    window.delayJS = []
+} else {
+    window.pcJS = ["//h5.z211.top/static/lib/jquery.zclip.min.js", "//h5.z211.top/static/lib/jquery.qrcode-0.12.0.min.js"];
+    window.delayJS = ["//h5.z211.top/static/lib/jquery.fbmodel.js"]
+}
+</script>
+<script src="//h5.z211.top/static/lib/hammer.min.js"></script>
+<script src="//h5.z211.top/static/lib/Tween.js"></script>
+<script src="//h5.z211.top/static/lib/jquery.qrcode-0.12.0.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="//h5.z211.top/static/p/20200226161312/publish.css"/>
+    <link rel="stylesheet" type="text/css" href="//h5.z211.top/static/lib/anim.css"/>
+    <script src="//h5.z211.top/static/p/20200226161312/publish2.js"></script>
+    
+    <script src="//h5.z211.top/static/statistics/libCobraStat.js"></script>
+    
+    
+    <script>window.pcJS = ["//h5.z211.top/static/lib/jquery.zclip.min.js"];</script>
+    
+
+<script>
+    function fixedDebugFun(){
+        $('input,textarea').on('blur',function(){
+            window.scroll(0,0);
+        });
+        $('select').on('change',function(){
+            window.scroll(0,0);
+        });
+    };
+    setTimeout(function(){
+        fixedDebugFun()
+    },3000)
+    setTimeout(function(){
+        fixedDebugFun()
+    },5000)
+    
+    animate();
+    function animate() {
+        requestAnimationFrame(animate);
+        TWEEN.update();
+    }
+    document.body.addEventListener('touchmove', function (e) {
+        e.preventDefault(); //阻止默认的处理方式(阻止下拉滑动的效果)
+    }, {passive: false});
+    var system ={
+        win : false,
+        mac : false,
+        xll : false
+    };
+    (function() {
+        var str = location.pathname.split('/')[2];
+        str = str && str.split('.')[0];
+        if (str === "cc72cc4e") {
+            setTimeout(function() {
+                $('#upGuide').css({
+                    display: 'none'
+                });
+            }, 2000);
+        }
+    }());
+    function IsPC() {
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone",
+                    "SymbianOS", "Windows Phone",
+                    "iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        return flag;
+    }
+    
+    function GetRequest() {   
+        var url =location.search; //获取url中"?"符后的字串   
+        var theRequest = new Object();   
+        if (url.indexOf("?") != -1) {   
+            var str = url.substr(1);  
+            var splitString = str.indexOf("&amp;")>-1?"&amp;":"&"
+            strs = str.split(splitString);   
+            for(var i = 0; i < strs.length; i ++) {   
+                theRequest[strs[i].split("=")[0]]=unescape(strs[i].split("=")[1]);   
+            }   
+        }   
+        return theRequest;   
+    }
+    var musicPlayIconShow=GetRequest().musicPlayIconShow||false;
+    //不再显示我也要制作
+    (function() {
+        if (window.self == window.top) {
+            console.log('不在iframe中');
+            var flag = IsPC(); //true为PC端，false为手机端
+            var ua = navigator.userAgent.toLowerCase();//获取判断用的对象
+            if (ua.match(/MicroMessenger/i) == "micromessenger"||musicPlayIconShow) {
+                //在微信中打开
+                    
+            }
+			document.getElementById("musicContainer").style.display="none";
+            function musicIconHideFun(){
+                if(document.getElementById("logoDiv")){document.getElementById("logoDiv").style.display="none";}
+                var hideNode=document.getElementById('report-new') && document.getElementById('report-new').previousSibling;
+                hideNode&&hideNode.style && (hideNode.style.display="none");
+				let fxgzedu = document.getElementById('reportViolation-new')
+				fxgzedu.innerHTML="青草科技 出品";
+				fxgzedu.onclick = function (){
+					window.location.href="https://github.com/qcminecraft";
+				}
+				
+            }
+            setTimeout(function(){musicIconHideFun()},2000)
+            setTimeout(function(){musicIconHideFun()},4000)
+            setTimeout(function(){musicIconHideFun()},6000)
+        }
+    }());
+    // 农民画册
+    (function() {
+        var str = location.pathname.split('/')[2];
+        str = str && str.split('.')[0];
+        if(str === "f36b0891") {
+            window.theTemplate_181220 = "f36b0891";
+        }
+        setTimeout(function() {
+            if((screen.height === 812 && screen.width === 375) && (str === "0f11bca6" || str === "f36b0891")) {
+                $("body").css({
+                    'height': '100%',
+                    'width': '100%'
+                });
+                $("#root").css({
+                    'position': 'absolute',
+                    'margin': 'auto',
+                    'width': '320px',
+                    'height': '512px',
+                    'left': '27px',
+                    'top': '0px',
+                    'bottom': '0px',
+                    'transform': 'scale(1.17188, 1.17188)'
+                });
+                $("#musicContainer").css({
+                    'z-index': '9999'
+                });
+                $("#musicPlayer").css({
+                    'z-index': '9999'
+                });
+                $("#mainPreview").css({
+                    'left': '0px',
+                    'top': '0px',
+                    'transform': 'initial'
+                });
+            }
+        }, 1000);
+    }());
+  
+</script>
+<script>
+    console.log("reloads")
+    function makeKey(){
+        var myDate = new Date();
+        var getYear = myDate.getYear();   
+        var getMonth = myDate.getMonth();       //获取当前月份(0-11,0代表1月)
+        var getDate = myDate.getDate();        //获取当前日(1-31)
+        var getHours = myDate.getHours();       //获取当前小时数(0-23)
+        var getMinutes = myDate.getMinutes();     //获取当前分钟数(0-59)
+        var locationhref=window.location.href.split("?")[0];
+        var key = getYear+"_"+getMonth+"_"+getDate+"_"+getHours+"_"+getMinutes+"_"+locationhref;
+        return key
+    }
+    function reload(){
+        var KeyBJ=makeKey();
+        if(localStorage.getItem(KeyBJ)&&localStorage.getItem(KeyBJ)=="reload"){
+            localStorage.setItem(KeyBJ,"");
+        }else{
+            localStorage.setItem(KeyBJ,"reload");
+            location.reload()
+        }
+    };
+    // if (browser.versions.mobile) {//判断是否是移动设备打开。browser代码在下面    
+    var ua = navigator.userAgent.toLowerCase();//获取判断用的对象
+    if (ua.match(/MicroMessenger/i) == "micromessenger") {
+            //在微信中打开
+        // setTimeout(function(){
+        //     reload()
+        // },1500)
+    }
+    // }
+</script>
+
+<script src="//h5.z211.top/static/lib/iosWpsDemand_181220.js"></script>
+<script src="//h5.z211.top/static/lib/shangfei.js"></script>
+<script src="https://cdn.bootcss.com/html2canvas/0.5.0-alpha1/html2canvas.min.js"></script>
+<script src="//h5.z211.top/static/lib/yearEndAct20181221.js"></script>
+</body>
+</html>
