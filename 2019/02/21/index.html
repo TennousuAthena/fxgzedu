@@ -48,7 +48,7 @@
         window.offline = false;
         window.isDebug = false;
         window.formHost = "//api.s.wps.cn";
-        //window.reportHost = window.location.origin;
+        window.reportHost = window.location.origin;
         window.baseUrl = "xiutangh5.cn/p";
 		//这里是关键
         window.jsonUrl = "data.json";
@@ -467,6 +467,7 @@ if (window.offline) {
                 var hideNode=document.getElementById('report-new') && document.getElementById('report-new').previousSibling;
                 hideNode&&hideNode.style && (hideNode.style.display="none");
 				let fxgzedu = document.getElementById('reportViolation-new')
+				document.getElementById('i_want_2_make').style.display="none";
 				fxgzedu.innerHTML="青草科技 出品";
 				fxgzedu.onclick = function (){
 					window.location.href="https://github.com/qcminecraft";
