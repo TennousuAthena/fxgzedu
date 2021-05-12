@@ -11,6 +11,9 @@
 
 		<title>阜新市高级中学 ~ 官方网站</title>
 
+        <!-- BY QCTech-->
+        <base href="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/">
+
 		<!-- Google font -->
 		<link href="https://fonts.loli.net/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
 
@@ -40,7 +43,7 @@
 				<div class="navbar-header">
 					<!-- Logo -->
 					<div class="navbar-brand">
-						<a class="logo" href="index.html">
+						<a class="logo" href="#">
 							<img src="img/logo-alt.png" alt="logo">
 						</a>
 					</div>
@@ -56,9 +59,8 @@
 				<!-- Navigation -->
 				<nav id="nav">
 					<ul class="main-menu nav navbar-nav navbar-right">
-						<li><a href="/#">首页</a></li>
+						<li><a href="#">首页</a></li>
 						<li><a href="http://zb.tv189.com/home/index.html?enterpriseId=8015" target="_blank">课程</a></li>
-						<!-- <li><a href="blog.html">Blog</a></li> -->
 						<li><a href="#contact">联系我们</a></li>
 					</ul>
 				</nav>
