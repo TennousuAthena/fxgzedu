@@ -1,9 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-cmn-Hans">
 	<head>
-		<!-- 没想到竟然真会有人看源代码
-		想说的话都在控制台里了，按F12查看
-		-->
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,13 +15,13 @@
 		<link href="https://fonts.loli.net/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
 
 		<!-- Bootstrap -->
-		<link type="text/css" rel="stylesheet" href="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/css/bootstrap.min.css"/>
+		<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"/>
 
 		<!-- Font Awesome Icon -->
-		<link rel="stylesheet" href="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
 
 		<!-- Custom stlylesheet -->
-		<link type="text/css" rel="stylesheet" href="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/css/style.css"/>
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -44,7 +41,7 @@
 					<!-- Logo -->
 					<div class="navbar-brand">
 						<a class="logo" href="index.html">
-							<img src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/logo-alt.png" alt="logo">
+							<img src="img/logo-alt.png" alt="logo">
 						</a>
 					</div>
 					<!-- /Logo -->
@@ -75,7 +72,7 @@
 		<div id="home" class="hero-area">
 
 			<!-- Backgound Image -->
-			<div class="bg-image bg-parallax overlay" style="background-image:url(https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/home-background.jpg)"></div>
+			<div class="bg-image bg-parallax overlay" style="background-image:url(img/home-background.jpg)"></div>
 			<!-- /Backgound Image -->
 
 			<div class="home-wrapper">
@@ -143,7 +140,7 @@
 
 					<div class="col-md-6">
 						<div class="about-img">
-							<img src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/about.png" alt="">
+							<img src="img/about.png" alt="">
 						</div>
 					</div>
 
@@ -180,7 +177,7 @@
 						<div class="col-md-3 col-sm-6 col-xs-6">
 							<div class="course">
 								<a href="http://zb.tv189.com/topic/topic.html?id=244" class="course-img">
-									<img src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course01.jpg" alt="数学">
+									<img src="img/course01.jpg" alt="数学">
 									<i class="course-link-icon fa fa-link"></i>
 								</a>
 								<a class="course-title" href="http://zb.tv189.com/topic/topic.html?id=244">和角公式中的一题多解</a>
@@ -194,7 +191,7 @@
 						<div class="col-md-3 col-sm-6 col-xs-6">
 							<div class="course">
 								<a href="http://zb.tv189.com/pc/review.html?fileId=47375&roomId=0" class="course-img">
-									<img src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course04.jpg" alt="">
+									<img src="img/course04.jpg" alt="">
 									<i class="course-link-icon fa fa-link"></i>
 								</a>
 								<a class="course-title" href="http://zb.tv189.com/pc/review.html?fileId=47375&roomId=0">内能和热力学第一定律</a>
@@ -209,7 +206,7 @@
 						<div class="col-md-3 col-sm-6 col-xs-6">
 							<div class="course">
 								<a href="http://zb.tv189.com/topic/topic.html?id=245" class="course-img">
-									<img src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course02.jpg" alt="">
+									<img src="img/course02.jpg" alt="">
 									<i class="course-link-icon fa fa-link"></i>
 								</a>
 								<a class="course-title" href="http://zb.tv189.com/topic/topic.html?id=245">古典诗词中的修辞方法 </a>
@@ -225,7 +222,7 @@
 						<div class="col-md-3 col-sm-6 col-xs-6">
 							<div class="course">
 								<a href="http://zb.tv189.com/pc/review.html?fileId=47274&roomId=0" class="course-img">
-									<img src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course03.jpg" alt="">
+									<img src="img/course03.jpg" alt="">
 									<i class="course-link-icon fa fa-link"></i>
 								</a>
 								<a class="course-title" href="http://zb.tv189.com/pc/review.html?fileId=47274&roomId=0">定语从句</a>
@@ -263,7 +260,7 @@
 		<div id="cta" class="section">
 
 			<!-- Backgound Image -->
-			<div class="bg-image bg-parallax overlay" style="background-image:url(https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/cta1-background.jpg)"></div>
+			<div class="bg-image bg-parallax overlay" style="background-image:url(img/cta1-background.jpg)"></div>
 			<!-- /Backgound Image -->
 
 			<!-- container -->
@@ -316,7 +313,7 @@
 
 			<div class="col-md-5 col-md-offset-1">
 				<a>
-					<img οndragstart="return false;" src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/OSM.png" alt="地址">
+					<img οndragstart="return false;" src="img/OSM.png" alt="地址">
 				</a>
 			</div>
 
@@ -332,7 +329,7 @@
 		<div id="contact-cta" class="section">
 
 			<!-- Backgound Image -->
-			<div class="bg-image bg-parallax overlay" style="background-image:url(https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/cta2-background.jpg)"></div>
+			<div class="bg-image bg-parallax overlay" style="background-image:url(img/cta2-background.jpg)"></div>
 			<!-- Backgound Image -->
 
 			<!-- container -->
@@ -344,9 +341,9 @@
 					<div class="col-md-8 col-md-offset-2 text-center">
 						<h2 class="white-text">联系我们</h2>
 						<p class="lead white-text">
-							<img src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/qrcode.jpg" height="256px" alt="微信公众号二维码" title="微信公众号二维码">
+							<img src="img/qrcode.jpg" height="256px" alt="微信公众号二维码" title="微信公众号二维码">
 						</p>
-						<a name="contact" href="mailto:system@fxgzedu.cn">请致信 system@fxgzedu.cn</a>
+						<a style="color: aliceblue;" name="contact" href="mailto:system@fxgzedu.cn">请致信 system@fxgzedu.cn</a>
 					</div>
 
 				</div>
@@ -371,7 +368,7 @@
 					<div class="col-md-6">
 						<div class="footer-logo">
 							<a class="logo" href="index.html">
-								<img src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/logo-alt.png" alt="logo">
+								<img src="img/logo-alt.png" alt="logo">
 							</a>
 						</div>
 					</div>
@@ -405,8 +402,10 @@
 					<!-- copyright -->
 					<div class="col-md-8 col-md-pull-4">
 						<div class="footer-copyright">
-							<span>&copy; 2020. 保留所有权利 | 本站由 <i class="fa fa-heart-o" aria-hidden="true"></i> 制作，由<a href="https://文学.club">文学部</a>维护</span>
-						</div>
+							<span>&copy; 2021. 保留所有权利 | 本站由 <i class="fa fa-heart-o" aria-hidden="true"></i> 制作，由<a href="https://oieasy.github.io/literature_club/">極東魔術昼寝文芸部</a>维护</span>
+                            <br />
+                            <span>Static webserver is powered by <a href="https://pages.github.com/" target="_blank"><img title="Github Pages" height="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"></a> & <img title="JsDelivr" src="https://cdn.jsdelivr.net/gh/jsdelivr/jsdelivr-media@master/default/svg/jsdelivr-icon.svg"></span>
+                        </div>
 					</div>
 					<!-- /copyright -->
 
@@ -425,9 +424,9 @@
 
 
 		<!-- jQuery Plugins -->
-		<script type="text/javascript" src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/js/jquery.min.js"></script>
-		<script type="text/javascript" src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/js/main.js?v=114514"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/main.js?v=114514"></script>
 
 	</body>
 </html>
