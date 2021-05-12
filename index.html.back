@@ -140,7 +140,7 @@
 
 					<div class="col-md-6">
 						<div class="about-img">
-							<img src="img/about.png" alt="">
+							<img src="img/about.jpg" alt="">
 						</div>
 					</div>
 
@@ -313,7 +313,7 @@
 
 			<div class="col-md-5 col-md-offset-1">
 				<a>
-					<img οndragstart="return false;" src="img/OSM.png" alt="地址">
+					<img οndragstart="return false;" src="img/OSM.jpg" alt="地址">
 				</a>
 			</div>
 
