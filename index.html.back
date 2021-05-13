@@ -21,7 +21,7 @@
 		<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"/>
 
 		<!-- Font Awesome Icon -->
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/all.min.css">
 
 		<!-- Custom stlylesheet -->
 		<link type="text/css" rel="stylesheet" href="css/style.css"/>
@@ -59,9 +59,9 @@
 				<!-- Navigation -->
 				<nav id="nav">
 					<ul class="main-menu nav navbar-nav navbar-right">
-						<li><a href="#">首页</a></li>
+						<li><a href="https://www.fxgzedu.cn/#">首页</a></li>
 						<li><a href="http://zb.tv189.com/home/index.html?enterpriseId=8015" target="_blank">课程</a></li>
-						<li><a href="#contact">联系我们</a></li>
+						<li><a href="https://www.fxgzedu.cn/#contact">联系我们</a></li>
 					</ul>
 				</nav>
 				<!-- /Navigation -->
@@ -110,7 +110,7 @@
 
 						<!-- feature -->
 						<div class="feature">
-							<i class="feature-icon fa fa-leanpub"></i>
+							<i class="feature-icon fab fa-leanpub"></i>
 							<div class="feature-content">
 								<h4>优秀教师资源</h4>
 								<p>阜新市高级中学现有72个教学班，5200名学生，246名教职工，其中专任教206名，其中特级教师5名，高级教师95名，一级教师62名，研究生学历10名。</p>
@@ -120,7 +120,7 @@
 
 						<!-- feature -->
 						<div class="feature">
-							<i class="feature-icon fa fa-lightbulb-o"></i>
+							<i class="feature-icon far fa-lightbulb"></i>
 							<div class="feature-content">
 								<h4>优秀教学理念</h4>
 								<p>在长期的教育教学实践中，学校形成了自己的风和特点。学校坚持把德育工作放在首位，开展了以“四四双五六会”为主要内容的育人工程。学校坚持以教学工作为中心，确立了“低起点、高密度、重能力、勤测试、常回顾、善应用”的原则。</p>
@@ -248,7 +248,7 @@
 
 				<div class="row">
 					<div class="center-btn">
-						<a class="main-button icon-button" href="http://zb.tv189.com/home/index.html?enterpriseId=8015">全部课程</a>
+						<a class="main-button" href="http://zb.tv189.com/home/index.html?enterpriseId=8015">全部课程 <i class="fas fa-play-circle"></i></a>
 					</div>
 				</div>
 
@@ -379,10 +379,10 @@
 					<!-- footer nav -->
 					<div class="col-md-6">
 						<ul class="footer-nav">
-							<li><a href="/#">首页</a></li>
+							<li><a href="https://www.fxgzedu.cn/">首页</a></li>
 							<li><a href="http://zb.tv189.com/home/index.html?enterpriseId=8015" target="_blank">课程</a></li>
 							<!-- <li><a href="blog.html">Blog</a></li> -->
-							<li><a href="#contact">联系我们</a></li>
+							<li><a href="https://www.fxgzedu.cn/#contact">联系我们</a></li>
 						</ul>
 					</div>
 					<!-- /footer nav -->
@@ -396,7 +396,7 @@
 					<!-- social -->
 					<div class="col-md-4 col-md-push-8">
 						<ul class="footer-social">
-							<li><a href="/img/qrcode.jpg" target="_blank" class="facebook" title="扫码关注公众号"><i class="fa fa-weixin"></i></a></li>
+							<li><a href="/img/qrcode.jpg" target="_blank" class="facebook" title="扫码关注公众号"><i class="fab fa-weixin"></i></a></li>
 						</ul>
 					</div>
 					<!-- /social -->
@@ -404,9 +404,17 @@
 					<!-- copyright -->
 					<div class="col-md-8 col-md-pull-4">
 						<div class="footer-copyright">
-							<span>&copy; 2021. 保留所有权利 | 本站由 <i class="fa fa-heart-o" aria-hidden="true"></i> 制作，由<a href="https://oieasy.github.io/literature_club/">極東魔術昼寝文芸部</a>维护</span>
+							<span>&copy; 2021. 保留所有权利 | Made with <i style="color:red" class="far fa-heart" aria-hidden="true"></i> & Maintained by <a href="https://oieasy.github.io/literature_club/">極東魔術昼寝文芸部</a></span>
                             <br />
-                            <span>Static webserver is powered by <a href="https://pages.github.com/" target="_blank"><img title="Github Pages" height="32px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"></a> & <img title="JsDelivr" src="https://cdn.jsdelivr.net/gh/jsdelivr/jsdelivr-media@master/default/svg/jsdelivr-icon.svg"></span>
+                            <span>Published by 
+                                <a title="Github Pages" href="https://pages.github.com/" target="_blank">
+                                    <i class="fab fa-github" style="font-size: 2em;"></i>
+                                </a>
+                                    & 
+                                    <i class="fab fa-cloudflare" style="font-size: 2em; color: #f6821f;"></i>
+                                    with
+                                    <img title="JsDelivr" src="https://cdn.jsdelivr.net/gh/jsdelivr/jsdelivr-media@master/default/svg/jsdelivr-icon.svg"></span>
+                                    speeding up.
                         </div>
 					</div>
 					<!-- /copyright -->
