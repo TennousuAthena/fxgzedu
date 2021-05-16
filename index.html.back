@@ -60,6 +60,7 @@
 				<nav id="nav">
 					<ul class="main-menu nav navbar-nav navbar-right">
 						<li><a href="https://www.fxgzedu.cn/#">首页</a></li>
+                        <li><a href="https://blod.fxgzedu.cn/" target="_blank">博客</a></li>
 						<li><a href="http://zb.tv189.com/home/index.html?enterpriseId=8015" target="_blank">课程</a></li>
 						<li><a href="https://www.fxgzedu.cn/#contact">联系我们</a></li>
 					</ul>
@@ -404,7 +405,7 @@
 					<!-- copyright -->
 					<div class="col-md-8 col-md-pull-4">
 						<div class="footer-copyright">
-							<span>&copy; <a id="year">2021</a>. 保留所有权利 | Made with <i style="color:red" class="far fa-heart" aria-hidden="true"></i> & Maintained by <a href="https://oieasy.github.io/">極東魔術昼寝文芸部</a></span>
+							<span>&copy; <a id="year">2021</a>. 保留所有权利 | Made with <i style="color:red" class="far fa-heart" aria-hidden="true"></i> & Maintained by <a href="https://oieasy.github.io/">極東魔術昼寝文芸部</a></span> | <a href="mailto:system@fxgzedu.cn?subject=网站领养">站点领养</a>
                             <br />
                             <span>Published by 
                                 <a title="Github Pages" href="https://pages.github.com/" target="_blank">
