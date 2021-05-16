@@ -440,6 +440,7 @@
 		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script>
 		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="js/main.js?v=114514"></script>
+		<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f9b19d58568447309e37f99466679e0f"}'></script><!-- End Cloudflare Web Analytics -->
 
 	</body>
 </html>
