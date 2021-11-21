@@ -12,7 +12,7 @@
     
     ys.innerHTML += '<div title="关闭推广" id="genshin-close" style="position: relative; left: -16px;">'+ CloseSVG +'</div><img id="genshin-pic" src="'+ FileBaseURL +'Genshin_AD.webp" height="170px">';
 
-    ys.setAttribute('style', 'position:fixed; right:0; bottom:0; cursor:pointer; opacity:85%;');
+    ys.setAttribute('style', 'position:fixed; right:0; bottom:0; cursor:pointer; opacity:85%; z-index:100;');
 
     if(screen.width <= 680){
         ys.setAttribute('style', 'display:none');
