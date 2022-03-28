@@ -1,0 +1,150 @@
+/css/bootstrap.min.css
+	https://ajax.cdnjs.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://cdnjs.loli.net/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://lib.baomitu.com/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://cdn.bootcss.com/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://g.alicdn.com/code/lib/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+	https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css
+	https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+	https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+	hash=916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=
+
+/css/font-awesome.min.css
+	https://ajax.cdnjs.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+	https://cdnjs.loli.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+	https://lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css
+	https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css
+	https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css
+	https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+	https://g.alicdn.com/code/lib/font-awesome/4.7.0/css/font-awesome.min.css
+	https://pagecdn.io/lib/font-awesome/4.7.0/css/font-awesome.min.css
+	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+	hash=eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=
+
+/fonts/fontawesome-webfont.eot
+	https://ajax.cdnjs.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://cdnjs.loli.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://lib.baomitu.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://cdn.bootcss.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://g.alicdn.com/code/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+	hash=e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=
+
+/fonts/fontawesome-webfont.svg
+	https://ajax.cdnjs.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://cdnjs.loli.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://lib.baomitu.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://cdn.bootcss.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://g.alicdn.com/code/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+	hash=rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=
+
+/fonts/fontawesome-webfont.ttf
+	https://ajax.cdnjs.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://cdnjs.loli.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://lib.baomitu.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://cdn.bootcss.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://g.alicdn.com/code/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+	hash=qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
+
+/fonts/fontawesome-webfont.woff
+	https://ajax.cdnjs.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://cdnjs.loli.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://lib.baomitu.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://cdn.bootcss.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://g.alicdn.com/code/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+	hash=ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=
+
+/fonts/fontawesome-webfont.woff2
+	https://ajax.cdnjs.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://cdnjs.loli.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://lib.baomitu.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://cdn.bootcss.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://g.alicdn.com/code/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+	hash=Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=
+
+/fonts/FontAwesome.otf
+	https://ajax.cdnjs.com/ajax/libs/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://cdnjs.loli.net/ajax/libs/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://lib.baomitu.com/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://cdn.staticfile.org/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://cdn.bootcss.com/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://g.alicdn.com/code/lib/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/FontAwesome.otf
+	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/FontAwesome.otf
+	hash=RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=
+
+/js/bootstrap.min.js
+	https://ajax.cdnjs.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://cdnjs.loli.net/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://lib.baomitu.com/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://cdn.bootcss.com/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://g.alicdn.com/code/lib/twitter-bootstrap/3.3.7/js/bootstrap.min.js
+	https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+	https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+	hash=U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=
+
+/js/jquery.min.js
+	https://ajax.cdnjs.com/ajax/libs/jquery/2.2.4/jquery.min.js
+	https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/jquery/2.2.4/jquery.min.js
+	https://cdnjs.loli.net/ajax/libs/jquery/2.2.4/jquery.min.js
+	https://lib.baomitu.com/jquery/2.2.4/jquery.min.js
+	https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js
+	https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js
+	https://cdn.bootcdn.net/ajax/libs/jquery/2.2.4/jquery.min.js
+	https://unpkg.com/jquery@2.2.4/dist/jquery.min.js
+	https://g.alicdn.com/code/lib/jquery/2.2.4/jquery.min.js
+	https://pagecdn.io/lib/jquery/2.2.4/jquery.min.js
+	https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.4.min.js
+	https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
+	https://code.jquery.com/jquery-2.2.4.min.js
+	hash=BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=
