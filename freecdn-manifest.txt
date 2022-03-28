@@ -1,30 +1,30 @@
 /2019/02/21/article.html
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/2019/02/21/article.html
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/2019/02/21/article.html
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/2019/02/21/article.html
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/2019/02/21/article.html
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/2019/02/21/article.html
 	hash=Wcu68czTBN9YRw+D76dYQCrWuln0LqYl3dwBklClq/0=
 
 /2019/02/21/data.json
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/2019/02/21/data.json
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/2019/02/21/data.json
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/2019/02/21/data.json
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/2019/02/21/data.json
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/2019/02/21/data.json
 	hash=XTQOacLKtwcyA8Z8ZfTH6kNFADaI1ExKMwS8fv8BUds=
 
 /2019/02/21/index.html
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/2019/02/21/index.html
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/2019/02/21/index.html
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/2019/02/21/index.html
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/2019/02/21/index.html
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/2019/02/21/index.html
 	hash=RXFiz3638uNNh/zJuGDkdC0PjrCGTLI5fatXje5YT3s=
 
 /2019/02/21/loading.gif
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/2019/02/21/loading.gif
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/2019/02/21/loading.gif
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/2019/02/21/loading.gif
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/2019/02/21/loading.gif
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/2019/02/21/loading.gif
 	hash=nEF08fFJX0e9bhF0y2kkWjX7LkCrNRlPhJajW2VwN80=
 
 /CNAME
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/CNAME
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/CNAME
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/CNAME
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/CNAME
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/CNAME
 	hash=QuEcSHa811kT9vtBIi6fEhaUnaPDLiG7dbZLWhplZyQ=
 
@@ -41,8 +41,8 @@
 	https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css
 	https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
 	https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/css/bootstrap.min.css
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/css/bootstrap.min.css
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/css/bootstrap.min.css
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/css/bootstrap.min.css
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/css/bootstrap.min.css
 	hash=916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=
 
@@ -59,20 +59,20 @@
 	https://pagecdn.io/lib/font-awesome/4.7.0/css/font-awesome.min.css
 	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/css/font-awesome.min.css
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/css/font-awesome.min.css
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/css/font-awesome.min.css
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/css/font-awesome.min.css
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/css/font-awesome.min.css
 	hash=eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=
 
 /css/style.css
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/css/style.css
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/css/style.css
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/css/style.css
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/css/style.css
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/css/style.css
 	hash=GhgxfUuRYBJKsOodqTDXue6p7EB2uDw9Lb2iwcN32LU=
 
 /favicon.ico
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/favicon.ico
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/favicon.ico
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/favicon.ico
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/favicon.ico
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/favicon.ico
 	hash=4DmX1pQftTxqS+99I4F2zHveB0r0DFdioZTrdfYzKmM=
 
@@ -89,8 +89,8 @@
 	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
 	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
 	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/fonts/fontawesome-webfont.eot
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/fonts/fontawesome-webfont.eot
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/fonts/fontawesome-webfont.eot
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/fonts/fontawesome-webfont.eot
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/fonts/fontawesome-webfont.eot
 	hash=e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=
 
@@ -107,8 +107,8 @@
 	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
 	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
 	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/fonts/fontawesome-webfont.svg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/fonts/fontawesome-webfont.svg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/fonts/fontawesome-webfont.svg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/fonts/fontawesome-webfont.svg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/fonts/fontawesome-webfont.svg
 	hash=rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=
 
@@ -125,8 +125,8 @@
 	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
 	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
 	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/fonts/fontawesome-webfont.ttf
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/fonts/fontawesome-webfont.ttf
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/fonts/fontawesome-webfont.ttf
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/fonts/fontawesome-webfont.ttf
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/fonts/fontawesome-webfont.ttf
 	hash=qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
 
@@ -143,8 +143,8 @@
 	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
 	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
 	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/fonts/fontawesome-webfont.woff
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/fonts/fontawesome-webfont.woff
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/fonts/fontawesome-webfont.woff
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/fonts/fontawesome-webfont.woff
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/fonts/fontawesome-webfont.woff
 	hash=ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=
 
@@ -161,8 +161,8 @@
 	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
 	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
 	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/fonts/fontawesome-webfont.woff2
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/fonts/fontawesome-webfont.woff2
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/fonts/fontawesome-webfont.woff2
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/fonts/fontawesome-webfont.woff2
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/fonts/fontawesome-webfont.woff2
 	hash=Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=
 
@@ -179,224 +179,224 @@
 	https://pagecdn.io/lib/font-awesome/4.7.0/fonts/FontAwesome.otf
 	https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/FontAwesome.otf
 	https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/FontAwesome.otf
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/fonts/FontAwesome.otf
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/fonts/FontAwesome.otf
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/fonts/FontAwesome.otf
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/fonts/FontAwesome.otf
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/fonts/FontAwesome.otf
 	hash=RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=
 
 /img/about_ys.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/about_ys.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/about_ys.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/about_ys.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/about_ys.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/about_ys.jpg
 	hash=QBEHV6DXNg2Ns+FuTlvETBdkK4BARzM2rAFYLsWA4LI=
 
 /img/about-video.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/about-video.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/about-video.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/about-video.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/about-video.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/about-video.jpg
 	hash=s6sqwuq7q7OfxtOY074XOhQkolosNfoO1qQfnX7ds2w=
 
 /img/about.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/about.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/about.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/about.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/about.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/about.jpg
 	hash=NyANggs4JMIZaW6iJJ4g+Uv2CIZbyi68EcZhXscR+V4=
 
 /img/avatar.png
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/avatar.png
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/avatar.png
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/avatar.png
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/avatar.png
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/avatar.png
 	hash=BPOoNUGEtDgBdMTqtpbwbLJaFQG0apKJXwJS1RmWxnE=
 
 /img/blog-post-background.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/blog-post-background.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/blog-post-background.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/blog-post-background.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/blog-post-background.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/blog-post-background.jpg
 	hash=hAis4aaEn6PmVWM744NjYpV4+MqR/L6cG1wFbpInlU0=
 
 /img/blog01.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/blog01.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/blog01.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/blog01.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/blog01.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/blog01.jpg
 	hash=DNiLpmPHDpsWvnKU5fu3rmGrFJFcxT7iF3Mg7TkPAiA=
 
 /img/blog02.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/blog02.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/blog02.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/blog02.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/blog02.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/blog02.jpg
 	hash=87dwusbV4Cr6Ny3zENVu6V+8b9Depl+hgPf+8ZAGMwA=
 
 /img/blog03.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/blog03.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/blog03.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/blog03.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/blog03.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/blog03.jpg
 	hash=gSzNZ+Ss46UMPLb05vCN/TRxHao3ZR6L/REwzSale04=
 
 /img/blog04.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/blog04.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/blog04.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/blog04.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/blog04.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/blog04.jpg
 	hash=80ASmsToI9jS2VQM4jSbCxq90xcJMF+incvaXj1jfGY=
 
 /img/course01.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/course01.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/course01.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/course01.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/course01.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course01.jpg
 	hash=1KROk800mXt+BpcgB4LifHKk68L9HRCXyGvB4vRRdaw=
 
 /img/course02.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/course02.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/course02.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/course02.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/course02.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course02.jpg
 	hash=p5p3NjMlxy1zqyN9bF8Dz8OYcjkn9jtHbE7Kpn5yFVQ=
 
 /img/course03.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/course03.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/course03.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/course03.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/course03.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course03.jpg
 	hash=aJgQA3uELYU+5lqQe02J2f0v9hn9XrHR3Ex5StQz2u8=
 
 /img/course04.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/course04.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/course04.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/course04.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/course04.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course04.jpg
 	hash=xlbFiEEUD1xi/MwtFO95GXmMYZdlJg+aVWbB0HXAqCE=
 
 /img/course05.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/course05.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/course05.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/course05.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/course05.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course05.jpg
 	hash=0p60Nto85T062W8nzT/ran6GU34/dW/B2u0lFjtgV/8=
 
 /img/course06.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/course06.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/course06.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/course06.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/course06.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course06.jpg
 	hash=MqjygPo0Vk5k7nrlxPIUeI1632e+hKNxhATQ9lBGa/o=
 
 /img/course07.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/course07.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/course07.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/course07.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/course07.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course07.jpg
 	hash=kjqZ3hpGkxSQbOiREC6jftsL2s86tH/98iD1UbJ5Fbo=
 
 /img/course08.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/course08.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/course08.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/course08.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/course08.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/course08.jpg
 	hash=RUyn+BWWTnZdEiMqwNe2qrHD517vXGXiUAd55qlmy+w=
 
 /img/cta1-background.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/cta1-background.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/cta1-background.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/cta1-background.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/cta1-background.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/cta1-background.jpg
 	hash=JZWbSff2rTNK7SmyDa3Rzvz5VTIBCkapTSWmufa0kik=
 
 /img/cta2-background.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/cta2-background.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/cta2-background.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/cta2-background.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/cta2-background.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/cta2-background.jpg
 	hash=k7BiayD/yd0kPcN/te2hrt24pHrdjo2wX3H0x2W2pfQ=
 
 /img/Genshin_AD.webp
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/Genshin_AD.webp
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/Genshin_AD.webp
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/Genshin_AD.webp
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/Genshin_AD.webp
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/Genshin_AD.webp
 	hash=UC9K5IS6f4YBqWjpxQIP+8HAGhtNGKzYsOM7NC+Zx0s=
 
 /img/home-background.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/home-background.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/home-background.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/home-background.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/home-background.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/home-background.jpg
 	hash=oMn7WoIGJRbLCDGGlEVyqbxI2xnTmrOPaWgRZKz2oIE=
 
 /img/IMG_2.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/IMG_2.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/IMG_2.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/IMG_2.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/IMG_2.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/IMG_2.jpg
 	hash=tcY3kMuAcSqcHNzvne6vZXvkclDB7ibkXbQgrI4+W3o=
 
 /img/IMG_3.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/IMG_3.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/IMG_3.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/IMG_3.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/IMG_3.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/IMG_3.jpg
 	hash=IVXBL4UrjUr96sdyOFcwltQtLzkrZ4TNHnaspUilsKw=
 
 /img/lADPDgQ9tn2-0QjNAu7NA-g_1000_750.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/lADPDgQ9tn2-0QjNAu7NA-g_1000_750.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/lADPDgQ9tn2-0QjNAu7NA-g_1000_750.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/lADPDgQ9tn2-0QjNAu7NA-g_1000_750.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/lADPDgQ9tn2-0QjNAu7NA-g_1000_750.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/lADPDgQ9tn2-0QjNAu7NA-g_1000_750.jpg
 	hash=m/I7UTTHWlUlwh/m+FjyPhX2s+6ndbWqjlllmqCXRjQ=
 
 /img/lADPDgQ9tn2-0QzNAprNA-g_1000_666.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/lADPDgQ9tn2-0QzNAprNA-g_1000_666.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/lADPDgQ9tn2-0QzNAprNA-g_1000_666.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/lADPDgQ9tn2-0QzNAprNA-g_1000_666.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/lADPDgQ9tn2-0QzNAprNA-g_1000_666.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/lADPDgQ9tn2-0QzNAprNA-g_1000_666.jpg
 	hash=z2LBr+ba7yM6t5cI9P/pT1K4WP+g3mCszkx25HKq0mM=
 
 /img/lADPDhmOrlpl0QrNAu7NA-g_1000_750.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/lADPDhmOrlpl0QrNAu7NA-g_1000_750.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/lADPDhmOrlpl0QrNAu7NA-g_1000_750.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/lADPDhmOrlpl0QrNAu7NA-g_1000_750.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/lADPDhmOrlpl0QrNAu7NA-g_1000_750.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/lADPDhmOrlpl0QrNAu7NA-g_1000_750.jpg
 	hash=j5ZUa8GTOypGnh6hv65uROud1+x7GaCafM90j2uPOpY=
 
 /img/logo-alt.png
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/logo-alt.png
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/logo-alt.png
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/logo-alt.png
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/logo-alt.png
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/logo-alt.png
 	hash=Go4UlMjobyJoNOAt9jRURSOaPBftpSebG1GUgTtD8aE=
 
 /img/logo.png
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/logo.png
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/logo.png
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/logo.png
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/logo.png
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/logo.png
 	hash=SgAP0aBYdeANmZ4nIADCGCkXJCo2P9l2Z1Edyvg2+ew=
 
 /img/OSM.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/OSM.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/OSM.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/OSM.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/OSM.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/OSM.jpg
 	hash=EntpRm7eTrw+TG0aAU35yQfXzk5iy6z7MYB/7zHbqZU=
 
 /img/page-background.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/page-background.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/page-background.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/page-background.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/page-background.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/page-background.jpg
 	hash=jEjHDL3wNd7Zz9ft/P5ikxqW5WenOsUvhnoQ57B3cCQ=
 
 /img/post01.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/post01.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/post01.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/post01.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/post01.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/post01.jpg
 	hash=55c2PYClOq94uZFlUrSKR7RvX4ooqxPIK+IJWXzlZgE=
 
 /img/post02.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/post02.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/post02.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/post02.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/post02.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/post02.jpg
 	hash=KKuC2kzKi3kid0e0Impr/7u7XRdW6oYjnvV/teTytGA=
 
 /img/post03.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/post03.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/post03.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/post03.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/post03.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/post03.jpg
 	hash=YNLyuSq74xZ2gQeLflc/xA4MJdpR4iIj9OBmP2kz1/w=
 
 /img/qrcode.jpg
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/img/qrcode.jpg
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/img/qrcode.jpg
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/img/qrcode.jpg
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/img/qrcode.jpg
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/img/qrcode.jpg
 	hash=NpwQxiS1g991w15W42jg9wdGgG3/1U5Xqq6SQIMqR8A=
 
 /index.html
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/index.html
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/index.html
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/index.html
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/index.html
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/index.html
 	hash=xb8mVk3o2SeZ6yy+fxm6bNzHIUi8RzcRjPiD0d8t73Q=
 
 /index.html.back
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/index.html.back
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/index.html.back
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/index.html.back
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/index.html.back
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/index.html.back
 	hash=nPpYBpa4W1AdprX0mEeWWW1RZJQfMUqL33l27R9dcDY=
 
@@ -412,20 +412,20 @@
 	https://g.alicdn.com/code/lib/twitter-bootstrap/3.3.7/js/bootstrap.min.js
 	https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
 	https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/js/bootstrap.min.js
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/js/bootstrap.min.js
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/js/bootstrap.min.js
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/js/bootstrap.min.js
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/js/bootstrap.min.js
 	hash=U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=
 
 /js/genshin-ad.js
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/js/genshin-ad.js
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/js/genshin-ad.js
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/js/genshin-ad.js
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/js/genshin-ad.js
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/js/genshin-ad.js
 	hash=27Z2nTwH3dO3Gf3giOf7iQufm0bkCb2PweSw/l29W0Y=
 
 /js/google-map.js
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/js/google-map.js
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/js/google-map.js
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/js/google-map.js
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/js/google-map.js
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/js/google-map.js
 	hash=qA2p7dReoQChD3UjmDeDZDqtDH66cN03gFqd9jETjyc=
 
@@ -444,13 +444,15 @@
 	https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.4.min.js
 	https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
 	https://code.jquery.com/jquery-2.2.4.min.js
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/js/jquery.min.js
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/js/jquery.min.js
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/js/jquery.min.js
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/js/jquery.min.js
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/js/jquery.min.js
 	hash=BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=
 
 /js/main.js
-	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.3/js/main.js
-	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.3/js/main.js
+	https://raw.githubusercontent.com/TennousuAthena/fxgzedu/0.0.4/js/main.js
+	https://cdn.jsdelivr.net/gh/TennousuAthena/fxgzedu@0.0.4/js/main.js
 	https://file-cdn.qmcmc.cn/assets/open/fxgzedu.cn/js/main.js
 	hash=ieFagd36Ehc6Y2jBvcdZ023VpWv4Jejo0VZXGsUlMhE=
+
+# SIGN: R5LGAg6VzqUzSB3EU6s3osquNZXY3nb4s0FNw5I1DuygW8ZJkCJ85ijF2Q4lJnGPSKVcdxwBOChiuSiLaBt/mw==
